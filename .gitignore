@@ -1,0 +1,18 @@
+# Dataset directories
+datasets/
+./datasets
+/datasets
+E:/UM-Projects/ShoeChecker/datasets
+E:\UM-Projects\ShoeChecker\datasets
+
+# Common large files in datasets
+*.zip
+*.tar.gz
+*.7z
+
+
+
+# Environment
+.env
+node_modules/
+.DS_Store

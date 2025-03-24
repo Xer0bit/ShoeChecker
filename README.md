@@ -15,7 +15,7 @@ ShoeChecker is an innovative application designed to help users identify and ver
 ### Setup
 1. Clone the repository
    ```
-   git clone https://github.com/usebyumar/ShoeChecker.git
+   git clone https://github.com/xer0bit/ShoeChecker.git
    ```
 
 2. Navigate to the project directory
